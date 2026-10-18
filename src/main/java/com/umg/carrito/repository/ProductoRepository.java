@@ -1,6 +1,6 @@
-package com.usac.carrito.repository;
+package com.umg.carrito.repository;
 
-import com.usac.carrito.model.Producto;
+import com.umg.carrito.model.Producto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

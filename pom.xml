@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
     
-    <groupId>com.usac.carrito</groupId>
+    <groupId>com.umg.carrito</groupId>
     <artifactId>carrito-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>carrito-api</name>

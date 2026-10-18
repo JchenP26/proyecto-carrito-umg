@@ -1,4 +1,4 @@
-package com.usac.carrito.model;
+package com.umg.carrito.model;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
